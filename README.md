@@ -11,3 +11,9 @@ This process is done to show how the system is behaving under real world scenari
 
 
 Rest of the Application requires simple Java API and Jar file of mysql attached in the git and swings extension present in the Eclipse Java IDE Software
+
+
+Contributors:
+  K.N.Dheeraj(kndheeraj0@gmail.com)
+  Chaintanya Subhedar(csubhedar1996@gmail.com)
+  Jayakrishnan Ashok (jayakrishnanashok@gmail.com)
