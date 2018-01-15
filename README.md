@@ -3,8 +3,8 @@ Contains the project code to develop a Homomorphic Encryption using Databases de
 
 ## Contents
 - [Introduction to the Project](#Introduction)
-- [Installation](#Installation procedure)
-- [Requirements](#Other Requirements)
+- [Installation](#Installation-procedure)
+- [Requirements](#Other-Requirements)
 - [Contributors](#Contributors)
 ### Introduction
 > With the Advent of Internet, Data has become freely available for anyone to use it carefully and also in wronger sense. So there is a need to implement newer Encryption methods that provides better control to those who need it at the most and lesser those who need it less. There comes the methodology of Homomorphic Encryption.
