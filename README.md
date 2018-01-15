@@ -25,7 +25,7 @@ This helps in Connecting the db with system to get remote access of with another
 ```bash
 GRANT ALL ON database.tablename TO 'Username' @'IP' IDENTIFIED BY 'PASSWORD' 
 ```
-#### Then run the main uisql file and progrm should run fine
+#### Then run the main uisql file and program should run fine
 
 This process is done to show how the system is behaving under real world scenarios. It depicts the actual implementation of the software. Whether the data that we are sending is going completely encrypted or not. Man in the Middle attacks can also be done to make sure that the data is safe. Also to ensure client to client Encryption is ensured. 
 
