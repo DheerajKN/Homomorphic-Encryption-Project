@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 
 public class uisql {
-	private static final String FILENAME =  "encryption key file";
+	private static final String FILENAME =  "encryption key location";
    private JFrame mainFrame;
    private JFrame encryptedTable,decryptedTable;   
    private JLabel headerLabel;
