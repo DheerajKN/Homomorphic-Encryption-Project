@@ -3,7 +3,7 @@ import java.math.*;
 import java.util.*;
 
 public class pailier {
-	private static final String FILENAME = "encryption key file";
+	private static final String FILENAME = "encrpyt key location";
 	static numcount numb;	
 	private BigInteger p, q, lambda;
 	public BigInteger n;
