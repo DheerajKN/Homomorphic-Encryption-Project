@@ -47,7 +47,7 @@ public class uisql {
 		 aesen=new aes();
 	  sip="localhost";
 	  databasename="project";
-	  password="dbpassword";
+	  password=dbapssword;
 	  user="root";
 	  uisql  uisql = new uisql();      
       uisql.showTextFieldDemo();
