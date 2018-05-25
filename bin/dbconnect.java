@@ -4,7 +4,7 @@ public class dbconnect {
 	public static void main(String[] args){
 	try{
 		Class.forName("com.mysql.jdbc.Driver");  
-	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/project","root","dbpassword");  
+	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/project","root",dbpassword);  
 	  Statement st=con.createStatement();
       
        //st.execute("create student(r_no int NOT NULL, nam varchar(20) NOT NULL, sapid int NOT NULL, PRIMARY KEY(sapid))");
