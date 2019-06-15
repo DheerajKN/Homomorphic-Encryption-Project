@@ -33,10 +33,17 @@ This process is done to show how the system is behaving under real world scenari
 ### Other Requirements
 Rest of the Application requires simple Java API and Jar file of mysql attached in the git and swings extension present in the Eclipse Java IDE Software
 
+## Notable International Publications
+- Successfully Published an online journal at **International Journal of Innovative Technology and Exploring Engineering(TM) IJITEE**   
+    - Link for the same - https://www.ijitee.org/wp-content/uploads/papers/v8i8/G5854058719.pdf
+- **ISSN:** 2278-3075 and **Retrieval Number:** G5854058719
+
 ## Important Note
 Also the user would include the Git link used and Contributor's name in their work.
 
 ### Contributors
-  K.N.Dheeraj(kndheeraj0@gmail.com)
-  Chaintanya Subhedar(csubhedar1996@gmail.com)
-  Jayakrishnan Ashok (jayakrishnanashok@gmail.com)
+<pre>
+  - K. N. Dheeraj        (<a href="kndheeraj0@gmail.com">kndheeraj0@gmail.com</a>)
+  - Chaintanya Subhedar  (<a href="csubhedar1996@gmail.com">csubhedar1996@gmail.com</a>)
+  - Jayakrishnan Ashok   (<a href="jayakrishnanashok@gmail.com">jayakrishnanashok@gmail.com</a>)
+ </pre>
