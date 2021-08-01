@@ -21,7 +21,7 @@ public class pailier {
 
 	}
 	public BigInteger[] getPQ(){
-		BigInteger[] res=new BigInteger[3];
+		BigInteger[] res=new BigInteger[4];
 		res[0]= new BigInteger(""+p);
 		res[1]= new BigInteger(""+q);
 		return res;
